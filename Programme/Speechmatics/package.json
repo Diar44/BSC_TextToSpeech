@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@speechmatics/real-time-client": "^5.0.10",
+    "dotenv": "^16.4.7",
+    "fs": "^0.0.1-security"
+  }
+}
